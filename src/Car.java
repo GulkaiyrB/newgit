@@ -5,8 +5,7 @@ public class Car {
         this.name = name;
     }
 
-    public Car() {
-    }
+
 
     public String getName() {
         return name;
